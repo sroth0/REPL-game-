@@ -29,3 +29,6 @@ end #if
 end #case
 
 end #loop do
+
+Great job! Awesome and fun game!
+
